@@ -41,9 +41,9 @@
    ```
 3. ▶️ Run `polymarket-copy-trading-bot-prod.exe`
 <p float="left">
-   <img width="235" alt="548934575-8638d2a1-889e-4467-b9b5-147776369623" src="https://github.com/user-attachments/assets/e44022cb-8890-4f2f-9a0d-f64e1c0dc81e" />
-   <img width="233" alt="image" src="https://github.com/user-attachments/assets/6bea66fc-b165-48b2-b11b-37ce653a887d" />
-   <img width="413" alt="548936095-3c0b9c45-4235-478a-9712-b081ccbe743c" src="https://github.com/user-attachments/assets/97cd31df-e631-4cc3-998a-82c353b68d4c" />
+   <img width="230" alt="548934575-8638d2a1-889e-4467-b9b5-147776369623" src="https://github.com/user-attachments/assets/e44022cb-8890-4f2f-9a0d-f64e1c0dc81e" />
+   <img width="228" alt="image" src="https://github.com/user-attachments/assets/6bea66fc-b165-48b2-b11b-37ce653a887d" />
+   <img width="405" alt="548936095-3c0b9c45-4235-478a-9712-b081ccbe743c" src="https://github.com/user-attachments/assets/97cd31df-e631-4cc3-998a-82c353b68d4c" />
 </p>
 
 ---
