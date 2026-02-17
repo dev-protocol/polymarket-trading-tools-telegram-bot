@@ -1,7 +1,7 @@
 # 🚀 Polymarket Trading Bots
-- 🤖 Polymarket Copy Trading Bot
-- 📈 Polymarket Arbitrage Bot
-- 💹 Polymarket Market Maker Bot
+- 🤖 [Polymarket Copy Trading Bot](https://github.com/dev-protocol/polymarket-trading-tools-telegram-bot/tree/main/polymarket-copy-trading-bot)
+- 📈 [Polymarket Arbitrage Bot](https://github.com/dev-protocol/polymarket-trading-tools-telegram-bot/tree/main/polymarket-arbitrage-bot)
+- 💹 [Polymarket Market Maker Bot](https://github.com/dev-protocol/polymarket-trading-tools-telegram-bot/tree/main/polymarket-market-maker-bot)
 
 ---
 ## 📞 Contact & Support
