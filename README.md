@@ -45,6 +45,7 @@
    <img width="218" alt="image" src="https://github.com/user-attachments/assets/6bea66fc-b165-48b2-b11b-37ce653a887d" />
    <img width="382" alt="548936095-3c0b9c45-4235-478a-9712-b081ccbe743c" src="https://github.com/user-attachments/assets/97cd31df-e631-4cc3-998a-82c353b68d4c" />
 </p>
+<img width="1844" height="936" alt="Screenshot_7" src="https://github.com/user-attachments/assets/d56e3701-818b-48f5-ac25-6d712cdea2e6" />
 
 ---
 ## ✨ Features
