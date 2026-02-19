@@ -1,0 +1,204 @@
+[package]
+name = "polymarket-copy-trading-bot-rust"
+version = "0.1.0"
+edition = "2021"
+description = "Polymarket copy trading bot - Rust port"
+authors = ["vladmeer"]
+
+[dependencies]
+# Async runtime
+tokio = { version = "1", features = ["rt-multi-thread", "sync", "time", "macros", "fs", "signal"] }
+
+# Serialization
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+# HTTP client
+reqwest = { version = "0.12", features = ["json", "rustls-tls"] }
+
+# MongoDB
+mongodb = "2"
+
+# WebSocket
+tokio-tungstenite = { version = "0.21", features = ["rustls-tls-webpki-roots"] }
+futures-util = "0.3"
+
+# Ethereum/Blockchain
+alloy = { version = "1", features = ["signer-local", "dyn-abi"] }
+ethers = { version = "2", features = ["legacy"] }
+
+# Polymarket SDK
+polymarket-client-sdk = { version = "0.4", features = ["clob"] }
+
+# Environment variables
+dotenvy = "0.15"
+
+# Error handling
+anyhow = "1"
+thiserror = "2"
+
+# Utilities
+chrono = { version = "0.4", features = ["serde"] }
+rust_decimal = "1.34"
+url = "2"
+regex = "1"
+colored = "2"
+
+# Logging
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+
+# Hex encoding
+hex = "0.4"
+
+[[bin]]
+name = "polymarket-copy-trading-bot-rust"
+path = "src/main.rs"
+
+[[bin]]
+name = "check_allowance"
+path = "src/bin/check_allowance.rs"
+
+[[bin]]
+name = "health_check"
+path = "src/bin/health_check.rs"
+
+[[bin]]
+name = "manual_sell"
+path = "src/bin/manual_sell.rs"
+
+[[bin]]
+name = "set_token_allowance"
+path = "src/bin/set_token_allowance.rs"
+
+[[bin]]
+name = "verify_allowance"
+path = "src/bin/verify_allowance.rs"
+
+[[bin]]
+name = "trigger_auto_claim"
+path = "src/bin/trigger_auto_claim.rs"
+
+[[bin]]
+name = "check_my_stats"
+path = "src/bin/check_my_stats.rs"
+
+[[bin]]
+name = "check_positions_detailed"
+path = "src/bin/check_positions_detailed.rs"
+
+[[bin]]
+name = "check_recent_activity"
+path = "src/bin/check_recent_activity.rs"
+
+[[bin]]
+name = "check_proxy_wallet"
+path = "src/bin/check_proxy_wallet.rs"
+
+[[bin]]
+name = "check_pnl_discrepancy"
+path = "src/bin/check_pnl_discrepancy.rs"
+
+[[bin]]
+name = "find_my_eoa"
+path = "src/bin/find_my_eoa.rs"
+
+[[bin]]
+name = "check_both_wallets"
+path = "src/bin/check_both_wallets.rs"
+
+[[bin]]
+name = "fetch_historical_trades"
+path = "src/bin/fetch_historical_trades.rs"
+
+[[bin]]
+name = "help"
+path = "src/bin/help.rs"
+
+[[bin]]
+name = "sell_large_positions"
+path = "src/bin/sell_large_positions.rs"
+
+[[bin]]
+name = "auto_claim_test"
+path = "src/bin/auto_claim_test.rs"
+
+[[bin]]
+name = "close_resolved_positions"
+path = "src/bin/close_resolved_positions.rs"
+
+[[bin]]
+name = "close_stale_positions"
+path = "src/bin/close_stale_positions.rs"
+
+[[bin]]
+name = "find_real_proxy_wallet"
+path = "src/bin/find_real_proxy_wallet.rs"
+
+[[bin]]
+name = "compute_gnosis_safe_address"
+path = "src/bin/compute_gnosis_safe_address.rs"
+
+[[bin]]
+name = "find_gnosis_safe_proxy"
+path = "src/bin/find_gnosis_safe_proxy.rs"
+
+[[bin]]
+name = "redeem_resolved_positions"
+path = "src/bin/redeem_resolved_positions.rs"
+
+[[bin]]
+name = "transfer_usdc_from_proxy"
+path = "src/bin/transfer_usdc_from_proxy.rs"
+
+[[bin]]
+name = "swap_native_to_bridged_usdc"
+path = "src/bin/swap_native_to_bridged_usdc.rs"
+
+[[bin]]
+name = "setup"
+path = "src/bin/setup.rs"
+
+[[bin]]
+name = "find_best_traders"
+path = "src/bin/find_best_traders.rs"
+
+[[bin]]
+name = "find_low_risk_traders"
+path = "src/bin/find_low_risk_traders.rs"
+
+[[bin]]
+name = "scan_best_traders"
+path = "src/bin/scan_best_traders.rs"
+
+[[bin]]
+name = "scan_traders_from_markets"
+path = "src/bin/scan_traders_from_markets.rs"
+
+[[bin]]
+name = "simulate_profitability"
+path = "src/bin/simulate_profitability.rs"
+
+[[bin]]
+name = "simulate_profitability_old_logic"
+path = "src/bin/simulate_profitability_old_logic.rs"
+
+[[bin]]
+name = "run_simulations"
+path = "src/bin/run_simulations.rs"
+
+[[bin]]
+name = "audit_copy_trading_algorithm"
+path = "src/bin/audit_copy_trading_algorithm.rs"
+
+[[bin]]
+name = "audit_copy_trading_algorithm_fixed"
+path = "src/bin/audit_copy_trading_algorithm_fixed.rs"
+
+[[bin]]
+name = "aggregate_results"
+path = "src/bin/aggregate_results.rs"
+
+[[bin]]
+name = "compare_results"
+path = "src/bin/compare_results.rs"
