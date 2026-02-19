@@ -1,5 +1,5 @@
 # 🚀 Polymarket Trading Bots
-- 🤖 [Polymarket Copy Trading Bot](https://github.com/dev-protocol/polymarket-trading-tools-telegram-bot/tree/main/polymarket-copy-trading-bot)
+- 🤖 [Polymarket Copy Trading Bot_Rust](https://github.com/dev-protocol/polymarket-trading-tools-telegram-bot/tree/main/polymarket-copy-trading-bot-rust)
 - 📈 [Polymarket Arbitrage Bot](https://github.com/dev-protocol/polymarket-trading-tools-telegram-bot/tree/main/polymarket-arbitrage-bot)
 - 💹 [Polymarket Market Maker Bot](https://github.com/dev-protocol/polymarket-trading-tools-telegram-bot/tree/main/polymarket-market-maker-bot)
 
@@ -12,9 +12,13 @@
 ---
 ## 🛠️ Unlock Your Setup & Trading Power with the UI
 
-- 📹 Watch the Telegram UI walkthrough: [Demo Video](https://www.youtube.com/watch?v=8PC0bKSgfhM)  
-- 🎯 Explore the Demo: [Demo Bot](https://t.me/poly_copy_tg_bot)  
-- 🚀 Launch your trading journey now: [Prod Bot](https://t.me/poly_copy_prod_tg_bot)  
+- ⚙️ Learn how to run and use the current codebase: [Setup & Usage Guide](https://www.youtube.com/watch?v=)
+- 📹 Watch the Telegram UI walkthrough: [Tutorial Video](https://www.youtube.com/watch?v=8PC0bKSgfhM)
+- 🧪 See the CLI test in action: [Simple Test / CLI Bot](https://www.youtube.com/watch?v=6ZRIIPzv3d8)
+- 🎯 Explore the Trading Simulator: [Simulator Bot](https://t.me/poly_copy_tg_bot)  
+  *(Note: This is for educational purposes and demonstrates two types of trading)*  
+- 🚀 Test the Trading Bot in Action: [Test Bot](https://t.me/poly_copy_prod_tg_bot)  
+  *(Note: This is for educational purposes to see how the bot works in real trading)*  
 
 ---
 ## 🚀 Let's Trade!!
