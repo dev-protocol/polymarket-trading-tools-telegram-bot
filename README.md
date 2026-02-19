@@ -44,9 +44,9 @@
 
 ---
 <p float="left">
-   <img width="220" height="1026" alt="telegram bot-1" src="https://github.com/user-attachments/assets/cbe68dc3-939a-4856-8a82-8e59d5588b1c" />
-   <img width="220" height="1026" alt="telegram bot-2" src="https://github.com/user-attachments/assets/3810d21f-8eaa-4503-80ab-eaa54604cc46" />
-   <img width="380" alt="image" src="https://github.com/user-attachments/assets/86d80efe-4469-42c0-8604-dc325a28e131" />
+   <img width="235" height="1026" alt="telegram bot-1" src="https://github.com/user-attachments/assets/cbe68dc3-939a-4856-8a82-8e59d5588b1c" />
+   <img width="235" height="1026" alt="telegram bot-2" src="https://github.com/user-attachments/assets/3810d21f-8eaa-4503-80ab-eaa54604cc46" />
+   <img width="350" alt="image" src="https://github.com/user-attachments/assets/86d80efe-4469-42c0-8604-dc325a28e131" />
 </p>
 
 https://github.com/user-attachments/assets/2e462566-f4cc-45c3-a3b1-6aa7757b0f32
