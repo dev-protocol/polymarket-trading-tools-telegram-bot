@@ -13,7 +13,7 @@
 ## 🛠️ Unlock Your Setup & Trading Power with the UI
 
 - ⚙️ Learn how to run and use the current codebase: [Setup & Usage Guide](https://www.youtube.com/watch?v=QLA1NJL32xs)
-- 📹 Watch the Telegram UI walkthrough: [Tutorial Video](https://www.youtube.com/watch?v=8PC0bKSgfhM)
+- 📹 Watch the Telegram UI walkthrough: [Tutorial Video](https://www.youtube.com/watch?v=gm8J2mmerBQ)
 - 🧪 See the CLI test in action: [Simple Test / CLI Bot](https://www.youtube.com/watch?v=6ZRIIPzv3d8)
 - 🎯 Explore the Trading Simulator: [Simulator Bot](https://t.me/poly_copy_tg_bot)  
   *(Note: This is for educational purposes and demonstrates two types of trading)*  
