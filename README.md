@@ -10,11 +10,20 @@
 - 🐦 X: [@soulcrancerdev](https://x.com/soulcrancerdev)
 
 ---
-## 🛠️ Unlock Your Setup & Trading Power with the UI
+## 📹 YouTube Tutorials: Unlock Your Setup & Trading Power with the UI
 
+### Copy Trading Bot Series
 - ⚙️ Learn how to run and use the current codebase: [Setup & Usage Guide](https://www.youtube.com/watch?v=QLA1NJL32xs)
 - 📹 Watch the Telegram UI walkthrough: [Tutorial Video](https://www.youtube.com/watch?v=gm8J2mmerBQ)
 - 🧪 See the CLI test in action: [Simple Test / CLI Bot](https://www.youtube.com/watch?v=6ZRIIPzv3d8)
+
+### Arbitrage Bot Series
+- ⚡ **[NEW]** [Polymarket 5-Min BTC Latency Arbitrage Bot](https://www.youtube.com/watch?v=CipdY9aCCwE)  
+  *Detects lightning-fast BTC moves on Binance/Bybit and enters Polymarket 5-minute "Up or Down" positions BEFORE the market price adjusts → pure latency edge*
+
+---
+## 📱 Telegram Bot: Explore the Trading Simulator & Test in Action
+
 - 🎯 Explore the Trading Simulator: [Simulator Bot](https://t.me/poly_copy_tg_bot)  
   *(Note: This is for educational purposes and demonstrates two types of trading)*  
 - 🚀 Test the Trading Bot in Action: [Test Bot](https://t.me/poly_copy_prod_tg_bot)  
