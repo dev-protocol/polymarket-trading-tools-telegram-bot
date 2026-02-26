@@ -1,4 +1,4 @@
-# 🚀 Polymarket Trading Bots
+# 🚀 Polymarket Trading Bots Telegram Service
 
 ## 📹 YouTube Tutorials: Unlock Your Setup & Trading Power with the UI
 
