@@ -1,15 +1,5 @@
 # 🚀 Polymarket Trading Bots
-- 🤖 [Polymarket Copy Trading Bot_Rust](https://github.com/dev-protocol/polymarket-trading-tools-telegram-bot/tree/main/polymarket-copy-trading-bot-rust)
-- 📈 [Polymarket Arbitrage Bot](https://github.com/dev-protocol/polymarket-trading-tools-telegram-bot/tree/main/polymarket-arbitrage-bot)
-- 💹 [Polymarket Market Maker Bot](https://github.com/dev-protocol/polymarket-trading-tools-telegram-bot/tree/main/polymarket-market-maker-bot)
 
----
-## 📞 Contact & Support
-
-- 📱 Telegram: [@soulcrancerdev](https://t.me/soulcrancerdev)
-- 🐦 X: [@soulcrancerdev](https://x.com/soulcrancerdev)
-
----
 ## 📹 YouTube Tutorials: Unlock Your Setup & Trading Power with the UI
 
 ### Copy Trading Bot Series
@@ -19,12 +9,12 @@
 
 ### Risk Free 5min Trading Bot Series
 - ⚡ **[NEW]** [Polymarket Risk_Free_5min_Trading Bot](https://www.youtube.com/watch?v=CipdY9aCCwE)  
-  *Detects lightning-fast BTC moves on Binance/Bybit and enters Polymarket 5-minute "Up or Down" positions BEFORE the market price adjusts → pure latency edge*
+  *Detects lightning-fast Crypto moves on Binance/Bybit and enters Polymarket 5-minute "Up or Down" positions BEFORE the market price adjusts → pure latency edge*
 
 ---
 ## 📱 Telegram Bot: Explore the Trading Simulator & Test in Action
 
-- 🛡️ **Polymarket Risk-Free 5min Trading Bot**: [Risk-Free Bot](https://t.me/poly5minbot)  
+- 🛡️ **Polymarket Risk-Free 5min Trading Bot**: [Risk-Free Bot](https://t.me/poly5mbot)  
   *(Note: Use this bot to experiment with the risk-free trading strategy in a simulated environment)*
 - 🎯 Explore the Trading Simulator: [Simulator Bot](https://t.me/poly_copy_tg_bot)  
   *(Note: This is for educational purposes and demonstrates two types of trading)*  
@@ -32,6 +22,14 @@
   *(Note: This is for educational purposes to see how the bot works in real trading)*  
 
 ---
+
+## 📞 Contact & Support
+
+- 📱 Telegram: [@soulcrancerdev](https://t.me/soulcrancerdev)
+- 🐦 X: [@soulcrancerdev](https://x.com/soulcrancerdev)
+
+---
+
 ## 🚀 Let's Trade!!
 
 ### **🤖 Polymarket Copy Trading Rust Bot - for Windows**
@@ -80,8 +78,6 @@ https://github.com/user-attachments/assets/2e462566-f4cc-45c3-a3b1-6aa7757b0f32
 
 **[Trading VPS →](https://app.tradingvps.io/aff.php?aff=60)** is the go-to low-latency hosting solution among serious prediction-market and crypto bot runners.
 
-<img width="803" height="300" alt="image" src="https://github.com/user-attachments/assets/7a3e4ce9-3e8a-4aa2-a8d6-f18dce66ad29" />
-
 - ⏱️ Sub-1 ms to major Polygon nodes  
 - 🔒 Crypto/HFT-optimized locations  
 - 📈 Exceptional uptime & network performance  
@@ -89,45 +85,6 @@ https://github.com/user-attachments/assets/2e462566-f4cc-45c3-a3b1-6aa7757b0f32
 Note: Polymarket has some GEO restrictions, so many Polymarket traders are using our AMS VPS and love it.
 
 ---
-
-## 📈 Popular Copy Trading Strategies
-
-1. **🏗️ Build a Portfolio of Traders**
-   - 🌐 Diversify across 3-5 traders with expertise in specific markets (e.g., sports, politics, crypto).
-   - 📉 Analyze wallet history: P&L curve, win rate, risk-reward, max drawdown.
-   - ⭐ Use "Copy Score" (e.g., R² * win rate * profit factor) to rank traders.
-   - 🚫 Avoid loud whales; target small quants with steady profits.
-
-2. **📊 Proportional Sizing and Risk Limits**
-   - 🔄 Mirror trades proportionally (e.g., if whale risks 5% of $1M, you risk 5% of your portfolio).
-   - 🛑 Cap risk at 7% per trade, max 3 open positions.
-   - 🧪 Start small (0.1% allocation) for testing.
-
-3. **⚙️ Custom Bot Parameters**
-   - 🚫 Skip certain markets or categories.
-   - 🔢 Set size multipliers based on trade size/category (e.g., chase spreads for high-volume trades).
-   - 🔄 Use retries with FAK/GTD orders; adjust for live vs. non-live markets.
-   - 📏 Copy % (e.g., 50-100% of trader's size).
-
-4. **🎯 Target Specific Trader Types**
-   - 🤖 **AI Sentiment Bots**: Copy bots that profit from news reactions (5-20 min window).
-   - 🔄 **Mean Reversion Bots**: Follow bots snapping up panic dumps.
-   - 💎 **Undervaluation Traders**: Mirror those betting on low-attention, mispriced markets (e.g., lower leagues).
-   - 📉 **Low/High Price Specialists**: Copy low-entry (0.1¢) high-frequency or high-entry (99¢) near-resolution plays.
-
-5. **🗃️ Wallet Baskets Approach**
-   - 👥 Group 5-10 similar wallets; enter only when 80%+ align on the same outcome within a tight price range.
-
-6. **✅ Pre-Copy Checklist**
-   - 🖐️ Trade manually first (10-20 trades) to understand risk.
-   - 👀 Observe 5-10 trades before automating.
-   - 🧠 Match trader expertise to your interests (e.g., skip NHL if unfamiliar).
-   - 💧 Ensure liquid markets (min $1M volume) to avoid moving prices.
-
-7. **🔥 Advanced Tips**
-   - 🔗 Combine with domain specialization (10-20% allocation).
-   - ⚠️ Monitor for adverse selection: Ensure your slippage + fees < trader's edge per share.
-   - 📚 Learn from failures: Avoid being exit liquidity or news traps.
 
 ## 🤝 Support & Community
 
